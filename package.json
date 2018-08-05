@@ -1,0 +1,25 @@
+{
+  "name": "todo-base-on-rematch",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "react",
+    "rematch"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "@rematch/core": "0.6.0",
+    "react": "16.3.2",
+    "react-dom": "16.3.2",
+    "react-redux": "5.0.7",
+    "react-scripts": "1.1.4",
+    "redux-thunk": "2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
